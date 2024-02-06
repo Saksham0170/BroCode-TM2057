@@ -1,0 +1,52 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+.maindiv{
+    background-image: url("WhatsApp Image 2024-02-06 at 4.56.10 AM.jpeg");
+    background-size: cover;
+    height:max-content;
+    color: white;
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    font-size: 400%;
+    margin-bottom: 20px;
+}
+p{
+    text-align: center;
+    justify-content: center;
+    font-size: 150%;
+    margin-bottom: 20px;
+}
+button{
+    text-align: center;
+    justify-content: center;
+    border-radius: 50px;
+    background-color: white;
+    color: purple;
+    height: 80px;
+    width: 250px;
+    margin-bottom: 20px;
+    font-size: 200%;
+}
+.dreamanalyzebut{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bookappoint{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dreamdes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    size: 3rem;
+    margin-bottom: 20px;
+    font-size: 3rem;
+}

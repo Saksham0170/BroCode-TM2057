@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+.firstpart{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.first1{
+    width: 700px;
+    height: 200px;
+}
+.first11{
+    font-weight: 400;
+    font-size: 128px;
+    color: #117C7C;
+    height: 184px;
+    width: 650px;
+    margin-left: 15px;
+}
+.first12{
+    width: 515px;
+    height: 145px;
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+}
+.first2{
+    background-image: url("5301 1.jpg");
+    background-size: cover;
+    width: 934px;
+    height: 487px;
+}
+
+.mentalhealth{
+    width: 837px;
+    height: 100px;
+    font-weight: 500;
+    font-size: 60px;
+}
+
+.boxx{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    display: flex;
+    border: solid black;
+    border-width: 1px;
+    width: 600px;
+    height: 150px;
+    margin-left: 25px;
+    flex-basis: 45%;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px black;
+}
+.boximage{
+    width: 230px;
+    height: 150px;
+}
+.image1{
+    height: 100%;
+    object-fit: cover;
+}
+.boxtext{
+    font-weight: 500px;
+    font-size: 22px;
+}
+.boxbutton{
+    margin: 25px;
+    height: 42px;
+    width: 250px;
+
+}
+.button{
+    font-size: 24px;
+    border-radius: 20px;
+    height: 42px;
+    width: 250px;
+    background-color: #117C7C;
+    opacity: 80%;
+    box-shadow: 2px 2px 5px black;
+}
+.button:hover{
+    font-weight: bold;
+    color: white;
+}
+#abc{
+    transform:translateY(25px);
+}
